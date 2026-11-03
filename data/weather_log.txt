@@ -1,0 +1,3 @@
+timestamp,city,temperature,description
+2026-11-03T11:24:53.466Z,London,11.53,broken clouds
+2026-11-03T11:25:33.064Z,London,11.53,broken clouds
